@@ -1,15 +1,20 @@
 Exhibit existing achievements:
 
-Grant:
+Grant:  
 [Grant-1]: Japan Society for the Promotion of Science (JSPS) Research Fellowship for Young Scientists (from 2024/4 to 2026/4, DC2, Japan)
 
-[Grant-2]: Support for Pioneering Research Initiated by the Next Generation by Japan Science and Technology Agency (Grant Number JPMJSP2106; from 2022/9 to 2024/4, Doctor, Japan)
+[Grant-2]: 
+
+Support for Pioneering Research Initiated by the Next Generation by Japan Science and Technology Agency (Grant Number JPMJSP2106; from 2022/9 to 2024/4, Doctor, Japan)
 
 Award:
+
 [Award-1]: Software Copyright (2021, Master, China)
 
 [Award-2]: China National Scholarship for graduate students (2021, Master, China)
 
 Certificate:
+
 [Certificate-1]: TOEIC (English ability): 810/1000 (2021, Master)
+
 [Certificate-2]: JLPT N1 (Japanese ability): 140/180 (2021, Master)
