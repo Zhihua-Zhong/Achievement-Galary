@@ -1,4 +1,4 @@
-**Exhibit existing achievements:**
+**Exhibitions existing achievements (supporting materials):**
 
 **Grant:**  
 [1]: **Japan Society for the Promotion of Science Research Fellowship for Young Scientists (JSPS) (from 2024/4 to 2026/4, DC2, Japan)**  
